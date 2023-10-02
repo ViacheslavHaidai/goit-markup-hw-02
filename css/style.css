@@ -57,14 +57,16 @@ ul {
     color: #404bbf;
 }
 
-.address-text a {
+.address-text {
+    font-style: normal;
+}
+.contacts {
     color: #434455;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
     text-decoration: none;
-    font-style: normal;
 }
 .contacts:hover,
 .contacts:focus {
